@@ -1,0 +1,15 @@
+//DHT11 Temperature Sensor// 
+https://www.amazon.com/Temperature-Humidity-Digital-3-3V-5V-Raspberry/dp/B07WT2HJ4F/ref=asc_df_B07WT2HJ4F/?tag=hyprod-20&linkCode=df0&hvadid=416696275833&hvpos=&hvnetw=g&hvrand=3357279990517828477&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031352&hvtargid=pla-904874943043&psc=1&tag=&ref=&adgrpid=96633977889&hvpone=&hvptwo=&hvadid=416696275833&hvpos=&hvnetw=g&hvrand=3357279990517828477&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031352&hvtargid=pla-904874943043
+
+//DHT Temperature Sensor Instructions// **Source of DHT Sensor Code**
+https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
+
+//DHT Sensor Troubleshooting//
+https://randomnerdtutorials.com/solved-dht11-dht22-failed-to-read-from-dht-sensor/
+
+//Concept Ideas//
+https://create.arduino.cc/projecthub/Monstermotte/make-a-fan-controller-with-arduino-b5436d
+https://create.arduino.cc/projecthub/KMsaifullah/temperature-controlled-fan-3d63c1
+
+//LCD Display//
+https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b?ref=similar&ref_id=342741&offset=5

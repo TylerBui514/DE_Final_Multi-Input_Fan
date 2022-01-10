@@ -13,6 +13,7 @@
   - Finish coding and testing of the DHT11 Temperature Sensor. Able to detect temp, humidity, and changes.
     **Only works with a high enough voltage**
   - Test 16x2 LCD. Powers on but does not work. Likley not having a temperature display. 
+  - Addition of Color Coded Wires on Arduino
 
 //10-Jan-2022//
   - Test increased voltage on the circuit. Turns the fan on and can somewhat get triggered by the different inputs.

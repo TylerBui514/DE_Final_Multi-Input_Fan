@@ -19,3 +19,8 @@
   - Test increased voltage on the circuit. Turns the fan on and can somewhat get triggered by the different inputs.
   - Temperature Sensor not working, even under high voltage.
   - Created GitHub repository. 
+  - Problems uploading info to board, "Content Mismatch" 
+  
+//11-Jan-2022//
+  - Tested different ways to fix "Contnet Mismatch Error" including different USB Cables, Ports, Arduino Uno Board, and reinstalling the program
+    **NONE OF THE SOLUTIONS WORKED**

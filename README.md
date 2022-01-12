@@ -7,4 +7,4 @@ Fan that is turned on by different inputs. Has a button for user input, a temper
 
 //STATUS//
 
-Not working. :(
+Not working. Arduino code will not upload because of some issue, no changes (Board, Code, Computer, Cables, App, Ports, etc.) does not fix. (Last updated 11-Jan-2022)
